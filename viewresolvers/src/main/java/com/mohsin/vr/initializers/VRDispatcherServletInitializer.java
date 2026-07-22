@@ -1,7 +1,7 @@
-package com.vr.initializers;
+package com.mohsin.vr.initializers;
 
-import com.vr.config.VRRootConfig;
-import com.vr.config.VRWebConfig;
+import com.mohsin.vr.config.VRRootConfig;
+import com.mohsin.vr.config.VRWebConfig;
 import org.jspecify.annotations.Nullable;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

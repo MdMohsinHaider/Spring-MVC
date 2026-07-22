@@ -1,4 +1,8 @@
 package com.mohsin.gw.validator;
 
-public interface Validator {
+import java.util.List;
+
+public interface Validator<T> {
+    List<String> validate(T t);
 }
+

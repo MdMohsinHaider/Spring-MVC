@@ -1,7 +1,7 @@
-package com.mcw.initializers;
+package com.mohsin.mcw.initializers;
 
-import com.mcw.config.MCWRootConfig;
-import com.mcw.config.MCWWebConfig;
+import com.mohsin.mcw.config.MCWRootConfig;
+import com.mohsin.mcw.config.MCWWebConfig;
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletRegistration;

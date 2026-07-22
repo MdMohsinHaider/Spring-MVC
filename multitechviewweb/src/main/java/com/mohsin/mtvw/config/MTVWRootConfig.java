@@ -1,4 +1,7 @@
 package com.mohsin.mtvw.config;
 
-public class MTVWRootConfi {
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class MTVWRootConfig {
 }

@@ -1,7 +1,7 @@
-package com.mvw.initializers;
+package com.mohsin.mvw.initializers;
 
-import com.mvw.config.MVWRootConfig;
-import com.mvw.config.MVWWebConfig;
+import com.mohsin.mvw.config.MVWRootConfig;
+import com.mohsin.mvw.config.MVWWebConfig;
 import org.jspecify.annotations.Nullable;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

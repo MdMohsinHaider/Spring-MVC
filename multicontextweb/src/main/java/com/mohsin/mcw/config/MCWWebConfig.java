@@ -1,4 +1,4 @@
-package com.mcw.config;
+package com.mohsin.mcw.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

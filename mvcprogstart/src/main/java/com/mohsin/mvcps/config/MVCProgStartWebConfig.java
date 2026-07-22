@@ -1,4 +1,4 @@
-package com.mvcps.config;
+package com.mohsin.mvcps.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import java.util.Properties;
 
 @Configuration
-@ComponentScan(basePackages = {"com.mvcps.controller"})
+@ComponentScan(basePackages = {"com.mohsin.mvcps.controller"})
 public class MVCProgStartWebConfig {
 
     @Bean

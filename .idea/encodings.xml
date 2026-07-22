@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/generic-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/generic-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/handlermappings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/handlermappings/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multicontextweb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multicontextweb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multitechviewweb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multitechviewweb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multiviewweb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multiviewweb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcprogstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcprogstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymvctest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymvctest/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/viewresolvers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/viewresolvers/src/main/resources" charset="UTF-8" />
   </component>
 </project>

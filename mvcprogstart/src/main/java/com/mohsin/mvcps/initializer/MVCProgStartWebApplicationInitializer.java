@@ -1,6 +1,6 @@
-package com.mvcps.initializer;
+package com.mohsin.mvcps.initializer;
 
-import com.mvcps.config.MVCProgStartWebConfig;
+import com.mohsin.mvcps.config.MVCProgStartWebConfig;
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletRegistration;
